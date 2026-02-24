@@ -2,7 +2,7 @@
   
 - 👨‍💻 All of my projects are available at [https://ssung01-pixel.github.io/sarinnaSung/#/](https://ssung01-pixel.github.io/sarinnaSung/#/)
   
-- 🌱 I’m interested in full-stack development so I'm currently react, javascript 
+- 🌱 I’m interested in full-stack development so I'm currently learning react & javascript 
    
 - 😄 Pronouns: she/her/hers
   
