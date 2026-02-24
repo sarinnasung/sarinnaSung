@@ -1,8 +1,6 @@
 - Hi 👋, I'm Sarinna Sung! I graduated in 2022 with a BS degree in Computer Science & Statistics from Boston University. Currently, I'm working as a Software Engineer at New Era Technology.
   
 - 👨‍💻 All of my projects are available at [https://ssung01-pixel.github.io/sarinnaSung/#/](https://ssung01-pixel.github.io/sarinnaSung/#/)
-
-- 📫 How to reach me **sungsarinna@gmail.com**
   
 - 🌱 I’m interested in full-stack development so I'm currently react, javascript 
    
