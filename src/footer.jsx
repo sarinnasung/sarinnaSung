@@ -19,7 +19,7 @@ const Footer = () => {
           <FontAwesomeIcon icon={faLinkedin} />
         </a>
         <a
-          href="https://github.com/ssung01-pixel"
+          href="https://github.com/sarinnasung"
           target="_blank"
           rel="noopener noreferrer"
         >
